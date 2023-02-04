@@ -12,9 +12,32 @@ npm or yarn
 
 #Install the dependencies shell
 
-cd mern-stack-hotel-booking-app
+cd Project_path
 npm install or yarn install
 
-#Run the app 
-
+#Run the app in client server
+cd client path
 npm start
+
+The app should now be running on http://localhost:3000
+
+
+#Run the app in backend server
+cd client path
+npm start
+
+The app should now be running on http://localhost:8000
+
+
+Features
+Search for hotels based on location, date, and number of guests
+View hotel details and rooms
+Book rooms
+User authentication and authorization
+
+
+
+
+
+
+Regenerate response
